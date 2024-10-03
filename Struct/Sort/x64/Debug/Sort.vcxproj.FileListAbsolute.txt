@@ -1,0 +1,1 @@
+C:\VSprojects\Struct\Sort\x64\Debug\Sort.vcxproj.CopyComplete
